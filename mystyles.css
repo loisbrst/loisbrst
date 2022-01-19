@@ -1,6 +1,11 @@
 h1{
+    font-size: large;
     text-align: center;
     color: #333399;
     font-family: 'Trebuchet MS';
     text-decoration: underline solid #333399;
+}
+p{
+    font-family: 'Trebuchet MS';
+    font-size: medium;
 }
